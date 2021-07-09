@@ -1,0 +1,41 @@
+img{
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+
+#search-bar
+{
+  text-align: center;
+}
+
+#country-name
+{
+  width: 500px;
+  margin: 20px;
+}
+
+a{
+  text-align: center;
+}
+
+button > img{
+  height: 15px;
+  width: 15px;
+}
+
+#container
+{
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+}
+
+#column1,#column2
+{
+  padding: 20px;
+  text-align: center;
+  margin: 20px;
+}
+
+
